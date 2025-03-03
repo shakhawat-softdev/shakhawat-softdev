@@ -4,7 +4,7 @@
 #### Full Stack Developer (MERN)
 
 
-I am a Jr. Front-End developer (MERN). I have learned web technologies like HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript ES6, Type Script, React, Redux, Next JS, Node JS, Express JS, MongoDB, JWT, Axios Interceptor, Firebase, REST APIs, Expertise with Popular NPM Package's, MaterialUI, Ant-Design, Figma, Vercel, Netlify etc. I have also good knowledge about Version control (Git), IT fundamentals.
+I am Front-End developer (MERN). I have learned web technologies like HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript ES6, Type Script, React, Redux, Next JS, Node JS, Express JS, MongoDB, JWT, Axios Interceptor, Firebase, REST APIs, Expertise with Popular NPM Package's, MaterialUI, Ant-Design, Figma, Vercel, Netlify etc. I have also good knowledge about Version control (Git), IT fundamentals.
 
 The main area of my interest lies in web-developing and currently I'm doing web developing to build my career as good web-developer. I am always looking for new challenges and opportunities to expand my skills and knowledge and I am excited to see where my passion for web development will take me.
 
